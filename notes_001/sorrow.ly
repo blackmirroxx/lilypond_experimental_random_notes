@@ -3,5 +3,5 @@
 { 
    \key g \minor
    \time 5/4 
-   g'8 g'8 g'8 g'8 g'8 g'8 a'4
+   g'8 g'8 g'8 g'8 g'8 g'8 g'8 g'8 a'4
 }
