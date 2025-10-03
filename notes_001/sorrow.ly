@@ -13,7 +13,7 @@
    \key g \minor
    \time 5/4 
    g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 a'4--
-   bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 c''4--
+   bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 c''4--
    f'8 f'8 f'8-> f'8 f'8 f'8 f'8-> f'8 g'4--
    ees'8 ees'8 ees'8-> ees'8 ees'8 ees'8 ees'8-> ees'8 f'4-- 
 }
