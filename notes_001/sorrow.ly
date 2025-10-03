@@ -54,5 +54,5 @@
 {
    \key g \minor
    \time 5/4
-   d''16 c''8.-> (d''8 d''4) r8 bes2 
+   d''16 c''8.-> d''8 (d''4) r8 bes2' 
 }
