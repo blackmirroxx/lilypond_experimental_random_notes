@@ -50,3 +50,9 @@
    f'8 f'8 f'8-> f'8 f'8 f'8 f'8-> f'8 g'4--
    ees'8 ees'8 ees'8-> ees'8 ees'8 ees'8 ees'8-> ees'8 f'4-- 
 }
+
+{
+   \key g \minor
+   \time 5/4
+   d''16 c''8.-> d''16 r8. bes2. 
+}
