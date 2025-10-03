@@ -14,6 +14,9 @@
    \time 5/4 
    g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 g'16 g'16 g'16-> g'16 a'4--
    bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 bes'16 bes'16 bes'16-> bes'16 c''4--
+}{   
+   \key g \minor
+   \time 5/4 
    f'16 f'16 f'16-> f'16 f'16 f'16 f'16-> f'16 f'16 f'16 f'16-> f'16 f'16 f'16 f'16-> f'16 g'4--
    ees'16 ees'16 ees'16-> ees'16 ees'16 ees'16 ees'16-> ees'16 ees'16 ees'16 ees'16-> ees'16 ees'16 ees'16 ees'16-> ees'16 f'4-- 
 }
