@@ -90,7 +90,7 @@
 {
    \key g \minor
    \time 5/4
-   g'16 f'8.-> g'8 (g''4) r8 bes'4. r8 
+   g'16 f'8.-> g'8 (g'4) r8 bes'4. r8 
    bes'16 g'8.-> bes'8 (bes'4) r8 d''4. r8 
    d''16 c''8.-> d''8 (d''4) r8 f''4  
    d''8 d''16 c''8.-> d''4 r8 g''2 r4 
