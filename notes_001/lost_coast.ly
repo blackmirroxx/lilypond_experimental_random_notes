@@ -4,5 +4,6 @@
 {
    \key gis \minor
    \time 5/4
-   b'4. b'8 gis'4. gis'8 b'8 b'8 ais'4.-> ais'8
+   b'4. b'8 gis'4. gis'8 b'8 b'8 
+   ais'4.-> ais'8 fis'4. fis'8 ais'8 ais'8
 }
