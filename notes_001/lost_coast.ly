@@ -7,4 +7,5 @@
    b'4. b'8 gis'4. gis'8 b'8 b'8 
    ais'4.-> ais'8 fis'4. fis'8 gis'8 gis'8
    dis'4. dis'8 cis'4. cis'8 b8 b8
+   dis'4.-> dis'8 cis'4 cis'8 r4
 }
