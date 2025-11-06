@@ -20,5 +20,5 @@
   % Mesure 3 : Descente parallèle en tierces
   ais'4. gis'8 fis'4. fis'8 e!8 dis'8 |
   % Mesure 4 : Résolution ambiguë (laisser planer)
-  gis'4.-> gis'8 fis'4 e'4\fermata |
+  gis'4.-> gis'8 fis'4. e'8\fermata r4 |
 }
