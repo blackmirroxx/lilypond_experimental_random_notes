@@ -20,6 +20,21 @@
     ais'4. gis'8 fis'4. fis'8 e!8 dis'8 |
     % Mesure 4 : Résolution ambiguë (laisser planer)
     gis'4.-> gis'8 fis'4. e'8\fermata r4 |
+
+    dis'4. dis'8 cis'4. cis'8 b8 b8 |
+    dis'4.-> dis'8 cis'4. cis'8 r4 |
+    b'4. b'8 gis'4. gis'8 b'8 b'8 |
+    ais'4.-> ais'8 fis'4. fis'8 gis'8 gis'8 |
+
+    ais'4.-> ais'8 fis'4. fis'8 gis'8 gis'8 |
+    b'4. b'8 gis'4. gis'8 b'8 b'8 |
+    dis'4.-> dis'8 cis'4. cis'8 r4 |
+    dis'4. dis'8 cis'4. cis'8 b8 b8 |
+    
+    ais'4. gis'8 fis'4. fis'8 e!8 dis'8 |
+    gis'4.-> gis'8 fis'4. e'8\fermata r4 |    
+    fis'4. e'8 dis'4. dis'8 fis'8 fis'8 ~ |   
+    fis'4.-> fis'8 cis''4. cis'8 b'8 ais'8 ~ |
 }
 
   \layout {}
